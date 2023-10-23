@@ -2,17 +2,15 @@
 ## About Me
  <img align='right' src="https://github.com/glaizell/glaizell/assets/105622744/54ca78f4-3507-4c94-bfaf-bb452932c6e3" width="300">
   
-  <p align='left'> Hey there! I'm Glaizell, an ambitious web developer who is passionate about producing eye-catching and engaging web applications. I'm thrilled to embark on this coding journey and explore the endless possibilities of web development. This GitHub repository is a reflection of my work as I continue to advance and learn in the area of web development.</p>
+  <p align='left'>I'm Glaizell, an experienced web developer with a strong focus on Python scripting, web scraping, and a diverse skill set. Over the years, I've honed my abilities to offer a comprehensive range of services. This GitHub repository reflects my journey in web development, with Python at the forefront, as I continue to advance my skills and explore the endless possibilities in this dynamic language.</p>
 <br/>
 
 
 
 ## My Skills
 
-- **Languages:** JavaScript (ES6+)
+- **Languages:** Python, JavaScript (ES6+)
 - **Front-end:** React, HTML, CSS, Tailwind
-- **Back-end:** Node.js, Express.js
-- **Database:** MongoDB
 - **Version Control:** Git
 - **Other:** RESTful APIs
 <br/>
@@ -67,11 +65,6 @@ As an aspiring web developer, my current goals are:
   I believe in the power of collaboration and giving back to the community. By contributing to open-source projects, I aim to share my knowledge, improve existing tools, and learn from experienced developers.
 </details>
 
-<details>
-  <summary><h4 style="display:inline">🎯 Learn Next.js with TypeScript</h4></summary>
-  
-  I am excited to explore the benefits of using Next.js alongside TypeScript to create performant and type-safe web applications. This combination of technologies will enable me to build robust and scalable projects.
-</details>
 <br/>
 
 
@@ -79,6 +72,9 @@ As an aspiring web developer, my current goals are:
 ## Languages and Tools
 <br>
 <p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>&nbsp;
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>&nbsp;
@@ -88,19 +84,7 @@ As an aspiring web developer, my current goals are:
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>&nbsp;
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>&nbsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer">
@@ -114,12 +98,6 @@ As an aspiring web developer, my current goals are:
   </a>&nbsp;
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>&nbsp;
-   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>&nbsp;
 </p>
 <br/>
