@@ -2,7 +2,7 @@
 ## About Me
  <img align='right' src="https://github.com/glaizell/glaizell/assets/105622744/54ca78f4-3507-4c94-bfaf-bb452932c6e3" width="300">
   
-  <p align='left'>I'm Glaizell, an experienced web developer with a strong focus on Python scripting, web scraping, and a diverse skill set. Over the years, I've honed my abilities to offer a comprehensive range of services. This GitHub repository reflects my journey in web development, with Python at the forefront, as I continue to advance my skills and explore the endless possibilities in this dynamic language.</p>
+  <p align='left'>I'm Glaizell, an aspiring web developer with a strong focus on Python scripting, web scraping, and a diverse skill set. Over the years, I've honed my abilities to offer a comprehensive range of services. This GitHub repository reflects my journey in web development, with Python at the forefront, as I continue to advance my skills and explore the endless possibilities in this dynamic language.</p>
 <br/>
 
 
